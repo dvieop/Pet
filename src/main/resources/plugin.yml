@@ -1,0 +1,5 @@
+name: Pet
+version: '1.0-SNAPSHOT'
+main: dvie.pet.Pet
+api-version: '1.21'
+depend: [NBTAPI]
